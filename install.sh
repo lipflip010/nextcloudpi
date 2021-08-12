@@ -32,7 +32,7 @@ echo "Getting build code..."
 apt-get update
 apt-get install --no-install-recommends -y git ca-certificates sudo lsb-release
 
-git clone -b "${BRANCH}" https://github.com/nextcloud/nextcloudpi.git "${TMPDIR}"/nextcloudpi
+git clone -b "${BRANCH}" https://github.com/lipflip010/nextcloudpi.git "${TMPDIR}"/nextcloudpi
 cd "${TMPDIR}"/nextcloudpi
 
 # install NCP

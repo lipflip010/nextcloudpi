@@ -120,7 +120,7 @@ NextCloudPi can be installed in any architecture running the latest Debian
 _Note: this assumes a clean Debian install, and there is no rollback method_
 
 ```
-# curl -sSL https://raw.githubusercontent.com/nextcloud/nextcloudpi/master/install.sh | bash
+# curl -sSL https://raw.githubusercontent.com/lipflip010/nextcloudpi/master/install.sh | bash
 ```
 
 ## Downloads
