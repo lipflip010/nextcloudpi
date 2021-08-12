@@ -147,7 +147,7 @@ EOF
   ncc app:install contacts
   ncc app:install notes
   ncc app:install tasks
-  ncc app:install news
+  #ncc app:install news
 
   ncc app:enable calendar
   ncc app:enable contacts
